@@ -10,3 +10,5 @@ It also shows how competitive the AI industry has become, especially with compan
 The article made me think about how AI could change the way we interact ith technology in the future. 
 
 I also liked how it connects something we use every day, like Siri, to bigger developments in software engineering.  
+
+Competitors of Apple's AI Siri are already a lot more advanced than what Siri can do. I think it's nice that Apple is trying to make Siri more useful, but I don't think Apple is trying to compete with other chatbots as much as other AI companies. - RuiDong1
